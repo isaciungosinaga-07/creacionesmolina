@@ -66,20 +66,20 @@
 <section class="contenedor">
     <div class="producto">
         <img src="https://via.placeholder.com/300x260" alt="Producto 1">
-        <h3>Polera Oversize</h3>
-        <p>Material: algodón 100%<br>Precio: $20</p>
+        <h3>Polos </h3>
+        <p>Material: algodón 100%<br>Precio: $00</p>
     </div>
 
     <div class="producto">
         <img src="https://via.placeholder.com/300x260" alt="Producto 2">
-        <h3>Pantalón Cargo</h3>
-        <p>Material: drill premium<br>Precio: $28</p>
+        <h3>Pantalón </h3>
+        <p>Material: drill premium<br>Precio: $00</p>
     </div>
 
     <div class="producto">
         <img src="https://via.placeholder.com/300x260" alt="Producto 3">
         <h3>Hoodie Unisex</h3>
-        <p>Material: algodón térmico<br>Precio: $32</p>
+        <p>Material: algodón térmico<br>Precio: $00</p>
     </div>
 </section>
 
@@ -87,8 +87,8 @@
 <section class="contenedor">
     <div class="producto">
         <img src="https://via.placeholder.com/300x260" alt="Chamarra 1">
-        <h3>Chamarra Casual</h3>
-        <p>Material: jean<br>Precio: $35</p>
+        <h3>Chamarra </h3>
+        <p>Material: jean<br>Precio: $00</p>
     </div>
 </section>
 
@@ -96,8 +96,8 @@
 <section class="contenedor">
     <div class="producto">
         <img src="https://via.placeholder.com/300x260" alt="Pantalón 1">
-        <h3>Pantalón Jogger</h3>
-        <p>Material: algodón premium<br>Precio: $25</p>
+        <h3>Pantalón de trabajo </h3>
+        <p>Material: algodón premium<br>Precio: $00</p>
     </div>
 </section>
 
@@ -106,14 +106,14 @@
     <div class="producto">
         <img src="https://via.placeholder.com/300x260" alt="Ropa Trabajo 1">
         <h3>Overol de Trabajo</h3>
-        <p>Material: lona industrial<br>Precio: $40</p>
+        <p>Material: lona industrial<br>Precio: $00</p>
     </div>
 </section>
 
 
 <div class="contacto">
-    Si quieres comprar, contáctate al número <strong>+591 70000000</strong><br>
-    o al correo: <a href="mailto:ejemplo@gmail.com">ejemplo@gmail.com</a>
+    Si quieres comprar, contáctate al número <strong>+591 77699920</strong><br>
+    o al correo: <a href="mailto:isabel.osinaga.molina@gmail.com">ejemplo@gmail.com</a>
 </div>
 
 </body>
